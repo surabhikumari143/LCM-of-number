@@ -1,0 +1,2 @@
+# LCM-of-number
+LCM
